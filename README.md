@@ -24,10 +24,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="docs/readme/wave.png" alt="A purple waveform with a mountain peak in the middle." width="520">
-</p>
-
 <table>
   <tr>
     <td align="center" width="33%">
