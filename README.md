@@ -162,8 +162,6 @@ Taking it off puts every microphone that was switched on for sounds back the way
 
 ## Licenses
 
-Only the notices these licenses say we have to keep.
-
 ### Opus, through Concentus
 
 Copyright (c) by various holding parties, including (but not limited to): Skype Limited, Xiph.Org Foundation, CSIRO, Microsoft Corporation, Jean-Marc Valin, Gregory Maxwell, Mark Borgerding, Timothy B. Terriberry, Logan Stromberg. All rights are reserved by their respective holders.
