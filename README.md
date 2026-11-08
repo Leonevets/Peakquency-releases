@@ -74,8 +74,6 @@
 
 ## 📦 The other good parts
 
-These matter just as much as the pictures. Open whichever one you need.
-
 <details>
 <summary><strong>🎧 Getting it onto the call</strong></summary>
 
