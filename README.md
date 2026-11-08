@@ -159,3 +159,26 @@ Drop in WAV, MP3, FLAC, M4A, AAC, WMA, AIFF, Ogg Vorbis, Opus, AC-3, or DTS. Got
 Taking it off puts every microphone that was switched on for sounds back the way it was. If one was switched on, uninstall warns you that audio drops out for a moment. It can also delete the Peakquency folders. A sounds folder you moved in Settings stays where you put it.
 
 </details>
+
+## 📜 Licenses
+
+Peakquency stands on these. Each one keeps its own license.
+
+| Piece | License |
+| --- | --- |
+| .NET | MIT |
+| NAudio | MIT |
+| NVorbis | MIT |
+| Concentus.Oggfile | MIT |
+| Concentus, with the Opus codec | BSD-3-Clause |
+| Whisper.net | MIT |
+| whisper.cpp | MIT |
+| Community Toolkit MVVM | MIT |
+| WPF-UI | MIT |
+| sherpa-onnx | Apache-2.0 |
+| ONNX Runtime | Apache-2.0 |
+| GTCRN | MIT |
+| DPDFNet | Apache-2.0 |
+| Whisper speech models | MIT |
+
+Concentus redistributes Opus. Copyright Skype Limited, Xiph.Org Foundation, CSIRO, Microsoft Corporation, Jean-Marc Valin, Gregory Maxwell, Mark Borgerding, Timothy B. Terriberry, and Logan Stromberg.
