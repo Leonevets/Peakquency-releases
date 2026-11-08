@@ -181,11 +181,15 @@ Concentus redistributes an independently compiled Opus codec under these same te
 
 ### Apache License 2.0
 
-sherpa-onnx, ONNX Runtime, and DPDFNet use the Apache License 2.0. That license says anyone who receives the software also receives a copy of it: http://www.apache.org/licenses/LICENSE-2.0
+sherpa-onnx, ONNX Runtime, and DPDFNet are under the Apache License 2.0.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ### MIT
-
-The MIT license says its copyright line and permission notice stay with the software.
 
 - Copyright (c) .NET Foundation and Contributors (.NET, Community Toolkit MVVM)
 - Copyright 2020 Mark Heath (NAudio)
