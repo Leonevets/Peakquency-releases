@@ -72,9 +72,9 @@
 > [!NOTE]
 > Chop the start, chop the end, or cut a hole out of the middle. A fade eases it in or out. Play in here is a preview, so only you hear it. Save it as a new sound, or overwrite this one.
 
-## 📦 The rest, if you want it
+## 📦 The other good parts
 
-The showy stuff is above. Everything else is tucked in here.
+These matter just as much as the pictures. Open whichever one you need.
 
 <details>
 <summary><strong>🎧 Getting it onto the call</strong></summary>
