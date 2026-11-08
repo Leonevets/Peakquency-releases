@@ -177,11 +177,13 @@ Redistribution and use in source and binary forms, with or without modification,
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Concentus redistributes an independently compiled Opus codec under these same terms.
+This library contains an independently compiled version of the Opus C reference library, maintained by Xiph.Org and the Opus contributors. Its source is at https://gitlab.xiph.org/xiph/opus/-/tags/v1.5.2, under the same terms.
 
 ### Apache License 2.0
 
-sherpa-onnx, ONNX Runtime, and DPDFNet are under the Apache License 2.0.
+sherpa-onnx and DPDFNet are under the Apache License 2.0.
+
+Copyright 2019-2023 Xiaomi Corporation (sherpa-onnx)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
@@ -197,13 +199,30 @@ Unless required by applicable law or agreed to in writing, software distributed 
 - Copyright (c) 2024 sandrohanea (Whisper.net)
 - Copyright (c) Georgi Gerganov (whisper.cpp)
 - Copyright (c) 2021-2025 Leszek Pomianowski and WPF UI Contributors (WPF-UI)
+- Copyright (c) 2019 S. Bäumlisberger (VirtualizingWrapPanel)
+- Copyright (c) 2020 Microsoft Corporation (Fluent System Icons)
+- Copyright (c) Microsoft Corporation (ONNX Runtime)
+- Copyright (c) Logan Stromberg and Andrew Ward (Concentus.Oggfile)
+- Copyright (c) 2024 Rong Xiaobin (GTCRN)
+- Copyright (c) 2022 OpenAI (Whisper)
 
-GTCRN, Concentus.Oggfile, and the Whisper speech models are published under the MIT License.
+The portable copy carries the .NET runtime license and third-party notices in the notices folder.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### FFmpeg
+
+ffmpeg and ffprobe are a separate LGPL build. Peakquency starts them as their own programs.
+
+FFmpeg is licensed under the GNU Lesser General Public License, version 3. LICENSE.txt and GPL.txt are in the ffmpeg folder.
+
+ffmpeg version N-128406-g1fe6854fd9-20261104 Copyright (c) 2000-2026 the FFmpeg developers
+Source: https://github.com/FFmpeg/FFmpeg/commit/1fe6854fd9
+Build scripts: https://github.com/BtbN/FFmpeg-Builds
+Variant: win64-lgpl
 
 </details>
