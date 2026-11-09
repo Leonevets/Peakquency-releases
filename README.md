@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Leonevets/Peakquency-releases/releases/download/v0.62.0/Peakquency-Setup-0.62.0.exe"><img alt="Download Peakquency Setup 0.62.0" src="https://img.shields.io/badge/Setup-0.62.0-8B5CF6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/Leonevets/Peakquency-releases/releases/download/v0.64.0/Peakquency-Setup-0.64.0.exe"><img alt="Download Peakquency Setup 0.64.0" src="https://img.shields.io/badge/Setup-0.64.0-8B5CF6?style=for-the-badge&logo=windows&logoColor=white"></a>
   &nbsp;
-  <a href="https://github.com/Leonevets/Peakquency-releases/releases/download/v0.62.0/Peakquency-0.62.0-win-x64-portable.zip"><img alt="Download the portable zip 0.62.0" src="https://img.shields.io/badge/Portable_zip-0.62.0-312E81?style=for-the-badge"></a>
+  <a href="https://github.com/Leonevets/Peakquency-releases/releases/download/v0.64.0/Peakquency-0.64.0-win-x64-portable.zip"><img alt="Download the portable zip 0.64.0" src="https://img.shields.io/badge/Portable_zip-0.64.0-312E81?style=for-the-badge"></a>
   &nbsp;
   <a href="https://github.com/Leonevets/Peakquency-releases/releases"><img alt="All Peakquency releases" src="https://img.shields.io/badge/All_releases-GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -149,8 +149,8 @@ Drop in WAV, MP3, FLAC, M4A, AAC, WMA, AIFF, Ogg Vorbis, Opus, AC-3, or DTS. Got
 
 | | |
 | --- | --- |
-| 🪟 **Setup** | `Peakquency-Setup-0.62.0.exe` installs to Program Files and grabs the .NET 8 Desktop Runtime if it's missing. The first thing it asks is your language. |
-| 📦 **Portable zip** | `Peakquency-0.62.0-win-x64-portable.zip` is a folder you can copy and run. The runtime is already in there. |
+| 🪟 **Setup** | `Peakquency-Setup-0.64.0.exe` installs to Program Files and grabs the .NET 8 Desktop Runtime if it's missing. The first thing it asks is your language. |
+| 📦 **Portable zip** | `Peakquency-0.64.0-win-x64-portable.zip` is a folder you can copy and run. The runtime is already in there. |
 
 Taking it off puts every microphone that was switched on for sounds back the way it was. If one was switched on, uninstall warns you that audio drops out for a moment. It can also delete the Peakquency folders. A sounds folder you moved in Settings stays where you put it.
 
